@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(199, 249, 249);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:black
+    font-family: 'Concert One', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Playfair Display', serif;
+text-align:justify;
+}
+
+img{
+    width: 200px;
+    border-radius: 10px;
+}
+
+.main-title{
+    color:blueviolet
+    font-family: 'Concert One', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Titan One', cursive;
+text-align:center;
+}
+
+.title-conocer{
+    color:blueviolet
+}
+.title-astrobiologia{
+    color:blue
+}
+.title-top{
+    color:blue
+}
+.title-misiones{
+    color:blue
+}
+
+.title-universo{
+    color:blue
+}
+
+.title-estrellas{
+    color:blue
+}
+
+/*
+selector{
+    propiedad: valor;
+}
+*/
